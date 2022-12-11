@@ -139,6 +139,10 @@
         @include modal-colors($primary-color, $white-color);
     }
 
+    &.modal-secondary{
+        @include modal-colors($secondary-color, $white-color);
+    }
+
     &.modal-danger{
         @include modal-colors($danger-color, $white-color);
     }

@@ -5469,6 +5469,27 @@ img {
   color: #FFFFFF;
 }
 
+.modal.modal-secondary .modal-content {
+  background-color: #74f759e8; /* fbed50, 424242, 5cdb95, 727b84 */
+  color: #424242e6;
+}
+
+.modal.modal-secondary .modal-content .welcome {
+  color: #424242d9;
+}
+
+.modal.modal-secondary .modal-content .youtube-family {
+  color: #424242;
+}
+
+.modal.modal-secondary .modal-content .youtube-family a {
+  color: #c4302be6;
+}
+
+.modal.modal-secondary .modal-content .other-social-medias {
+  color: #1d0575cc; 
+}
+
 .modal.modal-danger .modal-content {
   background-color: #FF3636;
   color: #FFFFFF;
